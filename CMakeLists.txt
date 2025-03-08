@@ -3,7 +3,7 @@ project(cursed C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(cursed main.c
+add_executable(example main.c
         list_int.c
         list_int.h
         )
